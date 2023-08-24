@@ -1,3 +1,0 @@
-Adding the 10th file
-Hello
-Adding a line that should not exist
