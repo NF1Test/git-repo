@@ -1,2 +1,3 @@
 Adding some content
 Adding a new line
+This line should not be available
