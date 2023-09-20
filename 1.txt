@@ -1,2 +1,3 @@
 Updating this file.
 Having new changes from VM1
+Adding this line for checking squash merge and merge commit
